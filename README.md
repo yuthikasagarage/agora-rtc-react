@@ -1,4 +1,4 @@
-# Agora RTC SDK React Wrapper
+#  React Wrapper for Agora RTC SDK
 
 A react (react.js) wrapper for [Agora RTC NG SDK](https://www.npmjs.com/package/agora-rtc-sdk-ng).
 
@@ -27,11 +27,4 @@ const App = () => {
     ready && <AgoraVideoPlayer videoTrack={tracks[1]} style={{height: '100%', width: '100%'}} />
   )
 }
-
-``` 
-
-## Example
-A full videocall example using the wrapper can be found [here](https://github.com/AgoraIO-Community/agora-rtc-react/wiki/Example).
-
-## Reference 
-You can view the methods in the wrapper [here](https://github.com/AgoraIO-Community/agora-rtc-react/wiki/API).
+......
